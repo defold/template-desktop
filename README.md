@@ -3,6 +3,7 @@
 This project was created from the "desktop" project template. This means that the settings in ["game.project"](defold://open?path=/game.project) have been changed to be suitable for a desktop game:
 
 - The screen size is set to 1280x720
+- Projection is set to Fixed Fit
 - macOS and Windows icons are set
 - Mouse clicks are bound to action "click"
 - A simple script in a game object is set up to receive and react to input
