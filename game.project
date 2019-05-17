@@ -24,3 +24,6 @@ app_icon = /assets/app_icons/appicon.icns
 [android]
 input_method = HiddenInputField
 
+[physics]
+gravity_y = -1000.0
+scale = 0.01
