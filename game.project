@@ -11,6 +11,7 @@ use_accelerometer = 0
 [display]
 width = 1280
 height = 720
+high_dpi = 1
 
 [script]
 shared_state = 1
@@ -28,4 +29,7 @@ input_method = HiddenInputField
 gravity_y = -1000.0
 scale = 0.01
 velocity_threshold = 100.0
+
+[html5]
+scale_mode = stretch
 
